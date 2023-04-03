@@ -1,11 +1,15 @@
 package cursojava.executavel;
 
+import java.sql.Date;
+
 public class Pessoa {
 
 	private String nome;
 	private String sobreNome;
 
 	private int idade;
+	
+	private Date dataNasc;
 	
 	
 	/*para voltar para o codigo anterior
