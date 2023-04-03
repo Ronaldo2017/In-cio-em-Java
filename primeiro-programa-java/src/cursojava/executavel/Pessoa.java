@@ -8,18 +8,16 @@ public class Pessoa {
 	private String sobreNome;
 
 	private int idade;
-	
+
 	private Date dataNasc;
-	
-	
-	/*para voltar para o codigo anterior
-	 * clica na classe:
-	 * vai em Replace With:
-	 * clica em Head Revision 
-	 * volta versão que esta no servidor
+
+	private String cpf;
+
+	/*
+	 * para voltar para o codigo anterior clica na classe: vai em Replace With:
+	 * clica em Head Revision volta versão que esta no servidor
 	 * 
-	 * */
-	
+	 */
 
 	public String getNome() {
 		return nome;
